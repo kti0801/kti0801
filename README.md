@@ -2,13 +2,20 @@
 # 📚 수상 및 활동내역
 
 
-| 기간 | 구분 | 활동내역 | 비고 |
 | **🚩 2024**  | | | <br><br> |
 | :---: | :---: | ------ | :--: |
-| 11.10 ~ 11.24 | 대회 | 삼성 청년 SW 아카데미(SSAFY) 프로젝트 우수상 | [개발코드](https://github.com/SSAFY10-Enjoy-Trip) | 
+| 06.14 ~ 06.16 | 대회 | 이스트소프트 제1회 해커톤 | [개발코드]() | 
 | 05.09 ~ 06.05 | 대회 | 이스트소프트 AI 모델 개발자 부트캠프 2기 정형 프로젝트  | [개발코드](https://github.com/kti0801/text_to_3D_person) |
-| 04.08 ~ 05.06 | 대회 | [DACON] 저해상도 조류 이미지 분류 AI 경진대회 (54/385) -swinv2 | [자료](https://github.com/kti0801/kti0801/blob/main/file/bird.png) | 
+| 04.08 ~ 05.06 | 대회 | [DACON] 저해상도 조류 이미지 분류 AI 경진대회 public(66/423), private(54/385) -swinv2 | [자료](https://github.com/kti0801/kti0801/blob/main/file/bird.png) | 
 | 03.27 ~ 04.15 | 대회 | 이스트소프트 AI 모델 개발자 부트캠프 2기 시계열 프로젝트 대상 | [개발코드](https://github.com/kti0801/korean_text_Sentiment_Classification) |
+| 02.13 ~ 03.04 | 대회 | [DACON] 웹 로그 기반 조회수 예측 해커톤 public(1/397), private(172/361) | [자료](https://github.com/kti0801/kti0801/blob/main/file/web.PNG) | 
 | 01.22 ~ 06.06 | 교육 | [ESTsoft] WASSUP 이스트소프트 AI 모델 개발자 부트캠프 2기 | [교육과정 및 자료](https://velog.io/@kti0801/%EC%9D%B4%EC%8A%A4%ED%8A%B8%EC%86%8C%ED%94%84%ED%8A%B8-AI-%EA%B0%9C%EB%B0%9C%EC%9E%90-2%EA%B8%B0-%EC%88%98%EB%A3%8C-%EC%99%84%EB%A3%8C-sa9nqfu7) |
 | **🚩 2023**  | | | <br><br> |
 | 09.22 ~ 10.18 | 대회 | DACON 2023 용인시 SW/AI 해커톤 장려상 | [활동사진](https://velog.io/@kti0801/Dacon-2023-%EC%9A%A9%EC%9D%B8%EC%8B%9C-swai-%ED%95%B4%EC%BB%A4%ED%86%A4),[자료](https://github.com/kti0801/kti0801/blob/main/file/DACON%202023%EC%9A%A9%EC%9D%B8%EC%8B%9CSWAI%ED%95%B4%EC%BB%A4%ED%86%A4%20%EC%9D%B8%EC%A6%9D%EC%84%9C.pdf) |
+
+### URL
+kaggle : https://www.kaggle.com/toiru1999
+
+dacon : https://dacon.io/myprofile/488787/home
+
+blog : https://velog.io/@kti0801/posts
