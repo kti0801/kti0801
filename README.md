@@ -13,6 +13,7 @@
 | 01.22 ~ 06.06 | 교육 | [ESTsoft] WASSUP 이스트소프트 AI 모델 개발자 부트캠프 2기 (우수수료생) | [교육과정 및 자료](https://velog.io/@kti0801/%EC%9D%B4%EC%8A%A4%ED%8A%B8%EC%86%8C%ED%94%84%ED%8A%B8-AI-%EA%B0%9C%EB%B0%9C%EC%9E%90-2%EA%B8%B0-%EC%88%98%EB%A3%8C-%EC%99%84%EB%A3%8C-sa9nqfu7) |
 | **🚩 2023**  | | | <br><br> |
 | 09.22 ~ 10.18 | 대회 | DACON 2023 용인시 SW/AI 해커톤 장려상 | [활동사진](https://velog.io/@kti0801/Dacon-2023-%EC%9A%A9%EC%9D%B8%EC%8B%9C-swai-%ED%95%B4%EC%BB%A4%ED%86%A4),[자료](https://github.com/kti0801/kti0801/blob/main/file/DACON%202023%EC%9A%A9%EC%9D%B8%EC%8B%9CSWAI%ED%95%B4%EC%BB%A4%ED%86%A4%20%EC%9D%B8%EC%A6%9D%EC%84%9C.pdf) |
+| 06.26 ~ 07.24 | 교육 | [Codeit] 코드잇 대학생 코딩 캠프 [11기] | [자료]() |
 
 ### URL
 kaggle : https://www.kaggle.com/toiru1999
