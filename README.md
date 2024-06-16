@@ -5,7 +5,7 @@
 | **🚩 2024**  | | | <br><br> |
 | :---: | :---: | ------ | :--: |
 | 06.14 ~ 06.16 | 대회 | 이스트소프트 제1회 해커톤 | [개발코드]() | 
-| 05.09 ~ 06.05 | 대회 | 이스트소프트 AI 모델 개발자 부트캠프 2기 정형 프로젝트  | [개발코드](https://github.com/kti0801/text_to_3D_person) |
+| 05.09 ~ 06.05 | 대회 | 이스트소프트 AI 모델 개발자 부트캠프 2기 비정형 프로젝트  | [개발코드](https://github.com/kti0801/text_to_3D_person) |
 | 04.22 ~ 06.11 | 교육 | [NAVER] AI 엔지니어 기초 다지기 : 부스트캠프 AI Tech 준비과정 [2회차] | [교육과정 및 자료]() |
 | 04.08 ~ 05.06 | 대회 | [DACON] 저해상도 조류 이미지 분류 AI 경진대회 public(66/423), private(54/385) -swinv2 | [자료](https://github.com/kti0801/kti0801/blob/main/file/bird.png) | 
 | 03.27 ~ 04.15 | 대회 | 이스트소프트 AI 모델 개발자 부트캠프 2기 시계열 프로젝트 대상 | [개발코드](https://github.com/kti0801/korean_text_Sentiment_Classification) |
