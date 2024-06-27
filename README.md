@@ -6,7 +6,7 @@
 | :---: | :---: | ------ | :--: |
 | 06.21 | 자격증 | SQLD | [인증서](https://github.com/kti0801/kti0801/blob/main/file/sqld_kti.pdf) | 
 | 06.14 ~ 06.16 | 대회 | 이스트소프트 제1회 해커톤 | [개발코드](https://github.com/kti0801/Easy_News) | 
-| 06.03 ~ 07.01 | 대회 | 웹 기사 추천 AI 경진대회 | [개발코드(진행중)](https://github.com/kti0801/weblog_recommend) |
+| 06.03 ~ 07.01 | 대회 | 웹 기사 추천 AI 경진대회 public(8/180) | [개발코드(진행중)](https://github.com/kti0801/weblog_recommend) |
 | 05.09 ~ 06.05 | 대회 | 이스트소프트 AI 모델 개발자 부트캠프 2기 비정형 프로젝트  | [개발코드](https://github.com/kti0801/text_to_3D_person) |
 | 04.22 ~ 06.11 | 교육 | [NAVER] AI 엔지니어 기초 다지기 : 부스트캠프 AI Tech 준비과정 [2회차] | [인증서](https://github.com/kti0801/kti0801/blob/main/file/certificate_A20240618-560390.pdf) |
 | 04.08 ~ 05.06 | 대회 | [DACON] 저해상도 조류 이미지 분류 AI 경진대회 public(66/423), private(54/385) -swinv2 | [자료](https://github.com/kti0801/kti0801/blob/main/file/bird.png) | 
