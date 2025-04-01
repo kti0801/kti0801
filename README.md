@@ -1,11 +1,11 @@
 
 # 📚 수상 및 활동내역
 | **🚩 2025**  | | | <br><br> |
-| 01.15 ~  | 정규직 | [ESTsoft] 소속 회사 : 이스트소프트, 소속 부서 : AI Agent Lab||
-| **🚩 2024**  | | | <br><br> |
 | :---: | :---: | ------ | :--: |
+| 01.15 ~  | 정규직 | [ESTsoft] 소속 회사 : 이스트소프트, 소속 부서 : AI Agent Lab|(LLM 엔지니어)|
+| **🚩 2024**  | | | <br><br> |
 | 07.15 ~ 25.01.14 | 인턴 | [ESTsoft] 소속 회사 : 이스트소프트, 소속 부서 : AI Human Lab|(정규직 전환)|
-| 09.23 ~ 10.18 | 대회 | DACON 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회 대상 |[인증서]([https://github.com/kti0801/kti0801/blob/main/file/sqld_kti.pdf](https://github.com/kti0801/kti0801/blob/main/file/2024%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B5.pdf)) | 
+| 09.23 ~ 10.18 | 대회 | DACON 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회 대상 |[인증서](https://github.com/kti0801/kti0801/blob/main/file/2024%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B5.pdf), [뉴스](Zm5jdDF8QEB8JTJGYmJzJTJGaHVmcyUyRjIxODclMkYxOTgyNjAlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEOCUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2)
 | 06.21 | 자격증 | SQLD | [인증서](https://github.com/kti0801/kti0801/blob/main/file/sqld_kti.pdf) | 
 | 06.14 ~ 06.16 | 대회 | 이스트소프트 제1회 해커톤 | [개발코드](https://github.com/kti0801/Easy_News) | 
 | 06.03 ~ 07.01 | 대회 | 웹 기사 추천 AI 경진대회 private(7/186)| [개발코드](https://github.com/kti0801/weblog_recommend) |
