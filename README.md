@@ -5,6 +5,7 @@
 | **🚩 2024**  | | | <br><br> |
 | :---: | :---: | ------ | :--: |
 | 07.15 ~ 25.01.14 | 인턴 | [ESTsoft] 소속 회사 : 이스트소프트, 소속 부서 : AI Human Lab|()|
+| 09.23 ~ 10.18 | 대회 | DACON 2024 용인시와 함께하는 한국외대 SW중심대학 - GBT 해커톤 경진대회 대상 |  | 
 | 06.21 | 자격증 | SQLD | [인증서](https://github.com/kti0801/kti0801/blob/main/file/sqld_kti.pdf) | 
 | 06.14 ~ 06.16 | 대회 | 이스트소프트 제1회 해커톤 | [개발코드](https://github.com/kti0801/Easy_News) | 
 | 06.03 ~ 07.01 | 대회 | 웹 기사 추천 AI 경진대회 private(7/186)| [개발코드](https://github.com/kti0801/weblog_recommend) |
